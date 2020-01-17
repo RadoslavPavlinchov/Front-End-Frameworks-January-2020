@@ -1,0 +1,11 @@
+/.dist
+
+/dist
+
+/node_modules
+
+*.xls
+
+*.pptx
+
+*.docx
